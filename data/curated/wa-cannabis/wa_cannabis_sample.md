@@ -31,3 +31,6 @@
 | month | Date |  |
 | sold_to_licensee_dba | character |  |
 | licensee_dba | character |  |
+| n | numeric | |
+| prop | numeric | |
+| rows_to_sample | numeric | |

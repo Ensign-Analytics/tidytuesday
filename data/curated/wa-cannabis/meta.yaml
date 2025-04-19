@@ -13,6 +13,7 @@ images:
     alt: "Bar chart showing cannabis retail sales in WA from 2024–2025"
 
 credit:
-  post: Franklin Johnson via yourweeddata.com
+  name: Franklin Johnson 
+  url: yourweeddata.com
   github: https://github.com/Ensign-Analytics
   

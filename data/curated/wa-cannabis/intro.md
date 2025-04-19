@@ -8,6 +8,14 @@ Since the legalization of recreational cannabis in Washington, the Washington St
 - Basic licensee-to-licensee and retailer-to-consumer transactions
 - Inventory categories and subcategories (e.g., flower, concentrate, edibles)
 
+Questions you could explore:
+- How do sales volumes and prices change over time?
+- Are there seasonal trends in retail cannabis activity? 
+- What categories of cannabis products are most frequently sold?
+- Does strain and product name interact with sales quantity or retail price?
+- How does product pack size relate to price per gram?
+- Do different licensee types or retail chains show pricing patterns?
+
 Transformed variables include:
 - `price_gram_wavg = mean(calc_price_per_gram, weighted by sales_qty)`
 - `price_absolute_diff = abs(calc_price_per_gram - price_gram_wavg)`
