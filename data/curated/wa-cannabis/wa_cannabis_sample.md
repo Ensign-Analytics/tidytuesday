@@ -28,6 +28,5 @@
 | total_tax_amt | numeric |  |
 | retail_sales_amt | numeric |  |
 | sales_qty | numeric |  |
-| month | Date |  |
 | sold_to_licensee_dba | character |  |
 | licensee_dba | character |  |
